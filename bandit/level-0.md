@@ -37,4 +37,4 @@ At the end you should have access to the shell of the machine:
 $ bandit0@bandit:~$
 ```
 
-Now we can continue to the next level
+Now we can continue to the next [Level 1](level-1.md)
